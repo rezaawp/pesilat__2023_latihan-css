@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+h1{
+    font-size: 35px;
+}
+table{
+    margin: auto;
+    background-color: white;
+}
+table th{
+    padding: 20px;
+    font-size: 25px;
+}
+table td{
+    padding: 20px;
+    font-size: 20px;
+}
+button{
+    margin: 20px;
+    padding: 10px;
+}
+button a{
+    text-decoration: none;  
+}
